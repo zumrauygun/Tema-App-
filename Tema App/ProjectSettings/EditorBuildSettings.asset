@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Anasayfa.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/Tree.unity
+    guid: 3c5ec5089625bc347814954653e4b641
+  m_configObjects:
+    UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: a4254380d45e8154186b866e57cdfedf, type: 2}
+    com.unity.xr.arfoundation.simulation_settings: {fileID: 11400000, guid: 9abece2fdf237ba4e94980cc3ca02c5b, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 16c6933cceb271744a2f51bd57c4243c, type: 2}
+  m_UseUCBPForAssetBundles: 0
