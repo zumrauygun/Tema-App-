@@ -35,7 +35,7 @@ Bu uygulama, Tema Vakfı ile ilgili bilgileri sunan ve ARCore teknolojisini kull
 
 ## Geliştirme
 
-Uygulamanın kaynak kodlarına [GitHub depomuzdan]([https://github.com/KULLANICIADI/TEMA-Vakfi-Uygulamasi](https://github.com/zumrauygun/Tema-App-) erişebilir ve katkıda bulunabilirsiniz. Geliştirme sürecinde yardıma ihtiyacınız olursa, lütfen bir konu açın veya bir çekme isteği gönderin.
+Uygulamanın kaynak kodlarına [GitHub depomuzdan](https://github.com/zumrauygun/Tema-App-) erişebilir ve katkıda bulunabilirsiniz. Geliştirme sürecinde yardıma ihtiyacınız olursa, lütfen bir konu açın veya bir çekme isteği gönderin.
 
 ## Uygulama Resimleri
 ![full](https://github.com/zumrauygun/Tema-App-/blob/main/Tema%20App/Assets/resim/Ads%C4%B1z%20tasar%C4%B1m.png)
